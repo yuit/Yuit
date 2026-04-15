@@ -1,5 +1,11 @@
-## Hi there 👋
+Hi 👋. I'm Yui.
 
+Previously, co-founder and Product Lead of Fare Elements Regenerative Commerce Platform, early engineer (#20) on [Hermes-GraphQL Cache](https://github.com/jbaxleyiii/apollo-cache-hermes) and Mobile Experience @Convoy(RIP), an engineer on [TypeScript](https://github.com/microsoft/Typescript) @microsoft.
+
+## 🔭 Current Projects
+
+* Agent2Agent Protocol: Personal exploration on Agent2Agent frameworks and protocols
+* [Mojaloop Third Party](https://github.com/mojaloop/tpp-api-svc):  Open source contribution on the Third Party API service for Mojaloop, an open source payment platform.
 <!--
 **yuit/Yuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
