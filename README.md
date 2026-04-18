@@ -1,11 +1,12 @@
-Hi 👋. I'm Yui.
+Hi 👋. I'm Yui, a product builder passionate about building DevTools for the payment, banking, and merchant/commerce space.
 
 Previously, co-founder and Product Lead @ Fare Elements Regenerative Commerce Platform, an early engineer (#20) @ Convoy (RIP) on [Hermes-GraphQL Cache](https://github.com/jbaxleyiii/apollo-cache-hermes) and Mobile Experience, an engineer on [TypeScript](https://github.com/microsoft/Typescript) @microsoft.
 
 ## 🌱 Current
 
-* [A2A Protocol](https://github.com/yuit/A2A-Health-Assistant): Personal exploration on Agent2Agent frameworks and protocols
 * [Mojaloop Third Party](https://github.com/mojaloop/tpp-api-svc):  Open source contribution on the Third Party API service for Mojaloop, an open source payment platform.
+* [A2A Protocol](https://github.com/yuit/A2A-Health-Assistant): Personal exploration on Agent2Agent frameworks and protocols
+
 <!--
 **yuit/Yuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
