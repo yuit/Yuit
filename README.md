@@ -1,6 +1,6 @@
 Hi 👋. I'm Yui, a product builder passionate about building developer tools in the payment, banking, and merchant/commerce space.
 
-Previously, co-founder and Product Lead @ Fare Elements Regenerative Commerce Platform, an early engineer (#20) @ Convoy (RIP) on [Hermes-GraphQL Cache](https://github.com/jbaxleyiii/apollo-cache-hermes) and Mobile Experience, an engineer on [TypeScript](https://github.com/microsoft/Typescript) @microsoft.
+Previously, co-founder and Product Lead @ Fare Elements Regenerative Commerce Platform, an early engineer (#20) @ Convoy (RIP) on [Hermes-GraphQL Cache](https://github.com/jbaxleyiii/apollo-cache-hermes) API and Mobile Experience, an engineer on [TypeScript](https://github.com/microsoft/Typescript) @microsoft.
 
 ## 🌱 Current
 
